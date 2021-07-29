@@ -1,4 +1,4 @@
-# NUBIA FERREIRA - WEB FULLSTACK DEV
+# Juan - Full-stack Java Dev.
 
 #### 💻 Spring/Angular
 #### 🎓 Generation Brasil
