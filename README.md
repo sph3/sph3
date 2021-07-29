@@ -1,9 +1,9 @@
 # Juan - Full-stack Java Dev.
 
-#### 💻 Spring/Angular
+####  📍 From São Paulo - 🇧🇷
 #### 🎓 Generation Brasil
-#### 📍 São Paulo
-#### ✅ #opentowork
+#### 💻 Java - Spring - Angular
+<> (✅ #opentowork)
 
  <div>
   <a href="https://github.com/juanhdev">
