@@ -5,8 +5,8 @@
 <a href = "mailto:juanhlealbarros@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juanhdev&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanhdev&layout=compact&langs_count=8&theme=merko"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=juanhdev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanhdev&layout=compact&langs_count=8&theme=radical"/>
 </div>
 <br>
 
