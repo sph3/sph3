@@ -1,10 +1,3 @@
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=sph3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sph3&langs_count=8&theme=radical"/>
-</div>
-<br>
-
 **Languages and Tools:**  
 
 ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
