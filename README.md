@@ -7,9 +7,11 @@
 - 💖 **I love learning everything related to technology**
 - 🧶 **And I love cats**
 
+---
+
 ### Things I know:
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> |
   <img width="40" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> |
   <img width="40" title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> |
@@ -20,9 +22,11 @@
   <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" /> |
 </div>
 
+---
+
 ### My stats:
 
-<div style="display: inline_block">
+<div style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=sph3&show_icons=true&theme=tokyonight"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sph3&layout=compact&theme=tokyonight"/>
 </div>
