@@ -9,7 +9,7 @@
 
 ---
 
-## My stack :)
+## My tech stack
 
 <div style="display: inline-block">
   <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -25,6 +25,10 @@
 ## My stats:
 
 <div style="display: inline-block">
-  <img src="https://github-readme-stats.vercel.app/api?username=sph3&show_icons=true&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sph3&layout=compact&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
+<a href="https://github.com/sph3">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sph3&show_icons=true&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sph3&layout=compact&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
+</a>
 </div>
+
+---
