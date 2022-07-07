@@ -1,4 +1,4 @@
-### About me:
+## About me:
 
 - 😊 **My name is Sophia, a full-stack developer from Brazil**
 - 🔭 **Currently looking for a programming job**
@@ -9,7 +9,7 @@
 
 ---
 
-### Things I know:
+## My stack :)
 
 <div style="display: inline-block">
   <img width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -22,9 +22,7 @@
   <img width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
 
----
-
-### My stats:
+## My stats:
 
 <div style="display: inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=sph3&show_icons=true&title_color=cba6f7&bg_color=1e1e2e&text_color=cdd6f4&border_color=cba6f7&icon_color=cba6f7"/>
